@@ -45,7 +45,7 @@ importa  java . netto . Presa ;
 				//clientMsg += "Connessione: chiudi\r\n";
 				//clientMsg += "Tipo di contenuto: testo/semplice\r\n";
 				clientMsg += "\r\n" ;
-				clientMsg += "Saluti dal web server Java" ;
+				clientMsg += "Saluti dal web server Java di davide gioele colpo" ;
 				outstream . scrivere ( clientMsg . getBytes ());
 				outstream . filo ();
 
